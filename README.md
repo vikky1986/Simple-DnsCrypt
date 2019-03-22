@@ -1,0 +1,2 @@
+# Simple-DnsCrypt
+dnscrypt-proxy
